@@ -1,0 +1,15 @@
+"use strict";
+let car = 'subaru';
+console.log("Is car == 'subaru'? I predict True.");
+console.log(car == 'subaru'); // True
+console.log("Is car == 'toyota'? I predict False.");
+console.log(car == 'toyota'); // False
+let car2 = 'kiya';
+console.log("is car == 'kiya'? i predict true");
+console.log(car2 == 'kiya');
+let car3 = 'mira';
+console.log("Is car == 'mira'? I predict true.");
+console.log(car3 == "mira");
+console.log("Is car == 'suzuki'? I predict false.");
+console.log(car3 == "suzuki");
+// Create at least 10 tests. Have at least 5 tests evaluate to True and another 5 tests evaluate to False.
